@@ -335,7 +335,9 @@ nav a {
     font-weight: 700;
     margin-bottom: 25px;
 }
-
+.etiqueta + h2 {
+margin-bottom: 25px;
+}
 /* DIEÑO PARA TELÉFONO */
 
 @media (max-width: 768px) {
